@@ -1,0 +1,102 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+
+
+\title{\textbf{PASOS PARA CREAR CUENTAS EN GITHUB Y OVERLEAF} }
+\author{Laura Sierra Moreno \ \\   }
+\date{March 2021. (07)}
+
+\begin{document}
+
+\maketitle
+
+\section{Resumen}
+Aprenderás a crear tu cuenta en estas reconocidas plataformas. Overleaf permite trabajar con varios documentos, enlazar contenido y simplificar nuestra tarea empleando plantillas predefinidas. en cuanto a GitHub es un sistema de gestión de proyectos y control de versiones de código, así como una plataforma de red social diseñada para desarrolladores. Bueno, en general, permite trabajar en colaboración con otras personas de todo el mundo, planificar proyectos y realizar un seguimiento del trabajo  . 
+
+\section{Objetivos}
+ 
+
+\begin{itemize}
+\item {\it Crear su cuenta en GitHub.}
+\item {\it Familiarnos con la plataforma GithHub.}
+\item {\it Crear su cuenta en Overleaf.} 
+\item {\it Sacar conclusiones.}
+\end{itemize}
+
+\section{Creación de la cuenta en GitHub}
+\subsection{Ingresamos a la pagina principal de GitHub}
+En la parte superior derecha, hay dos apartados (sign in) iniciar sesion, (sign up) registrarse, seleccionar sign up.
+\begin{figure}[htb]
+\centering
+\includegraphics[width=0.9\textwidth]{images/2021-03-07.png}
+
+\caption{Pagina principal de GitHub}
+\end{figure}
+
+\break
+\subsection{Completar los campos en blanco:  }
+\begin{itemize}
+\item Username: nombre del usuario que usaras
+\item Email address: Agrega el correo con el que vinculas tu cuenta.
+\item Password: Contraseña 
+\end{itemize}
+
+\begin{figure}[htb]
+\centering
+\includegraphics[width=0.9\textwidth]{images/2021-03-07 (21).png}
+\caption{Ventana para completar con los datos necesarios GitHub}
+
+\end{figure}
+
+\break
+
+\subsection{Seleccionar las imagenes solicitadas}
+
+\begin{figure}[htb]
+\centering
+\includegraphics[width=0.9\textwidth]{images/2021-03-07 (22).png}
+\caption{Ventana para verificar que es una persona natural GitHub}
+
+\end{figure}
+\break
+\section{Crear cuenta en Overleaf}
+\subsection{Ingresamos a la pagina principal de Overleaf}
+En la parte superior derecha damos clic en el boton verde (sign up) registrarse
+\begin{figure}[htb]
+\centering
+\includegraphics[width=\textwidth]{images/2021-03-07 (8).png}
+\caption{Pagina principal de Overleaf}
+
+\end{figure}
+
+\break
+\subsection{Registrarse}
+En esta pagina solo aparecen dos campos para rellenar o si bien lo prefiere puede vincular su cuenta de google como tambien la de ORCID
+\begin{figure}[htb]
+\centering
+\includegraphics[width=\textwidth]{images/2021-03-07 (12).png}
+\caption{Ventana para resgistrarse}
+
+\end{figure}
+
+\break
+
+\section{Conclusiones}
+\begin{itemize}
+\item {\it Conclusión numero 1:} Es facil crear una cuenta en estas plataformas tan aprovechables
+\item {\it Conclusión numero 2:} GitHub nos da mas secciones para registrarse, pero vale la pena tener buena seguridad en la cuenta 
+\item {\it Conclusión numero 3:} En Overleaf podremos crear unos trabajos de calidad y con una buena presentación 
+\end{itemize}
+\section{Bibliografía}
+\begin{itemize}
+\item https://es.overleaf.com/.
+\item http://www.mat.uda.cl/hsalinas/cursos/2008/latex/apuntes2.pdf
+\item https://manualdelatex.com/tutoriales/listas-y-enumeraciones
+\item https://manualdelatex.com/tutoriales/figuras
+
+\end{itemize}
+\end{document}
